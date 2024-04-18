@@ -1,0 +1,8 @@
+### Instalar dependencias
+- npm create vite@latest
+- npm install
+- npm install --save react-big-calendar // Librería especial para el calendario 
+- npm i dayjs
+
+### Borrar carpetas y elementos predeterminados de vite
+- Dejar en src app.css, app.jsx main.jsx
